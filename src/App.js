@@ -384,15 +384,15 @@ const App = () => {
                 
                 <h3 className="text-xl font-bold mb-6">Follow Me!</h3>
                 <div className="flex space-x-4">
-                  <a href="#" className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full transition-colors">
-                    {/* <GitHub size={20} /> */}
+                  {/* <a href="#" className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full transition-colors">
+                    <GitHub size={20} />
                   </a>
                   <a href="#" className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full transition-colors">
-                    {/* <Linkedin size={20} /> */}
+                    <Linkedin size={20} />
                   </a>
                   <a href="#" className="bg-gray-100 hover:bg-gray-200 p-3 rounded-full transition-colors">
-                    {/* <Instagram size={20} /> */}
-                  </a>
+                    <Instagram size={20} />
+                  </a> */}
                 </div>
               </div>
               
